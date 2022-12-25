@@ -1,7 +1,5 @@
 ## Information Systems Engineering Student 🚀 🤖
 
-### GitHub Analytics 📈
-
   <img height="200em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=semanurbilada&show_icons=true&locale=en&layout=compact&langs_count=8&theme=radical" alt="mukireus"/>
 </a>
 <br/>
