@@ -5,7 +5,6 @@
 - 💻 I’m currently using HTML, CSS (+TailwindCSS).
 - 🎃 I'm currently Front-End Web Freelancer.
 - ⚡ Fun fact: I love to play tennis 🎾.
-
 <br/>
 
 ### Connect with me:
