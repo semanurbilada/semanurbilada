@@ -5,7 +5,6 @@
 - 💻 I’m currently using HTML, CSS (+TailwindCSS).
 - 🎃 I'm currently Front-End Web Freelancer.
 - ⚡ Fun fact: I love to play tennis 🎾.
-<br/>
 
 ### GitHub Analytics 📈
 
@@ -14,7 +13,7 @@
 <br/>
 
 ### Connect with me:
-[<img align="left" height="25" width="25" alt="linkedin | LinkedIn" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" target="_blank"/>][linkedin]
+[<img align="left" height="25" width="25" target="_blank" alt="linkedin | LinkedIn" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"/>][linkedin]
 [<img align="left" height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
 
 <br/>
