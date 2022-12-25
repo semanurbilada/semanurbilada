@@ -3,7 +3,7 @@
 ## I'm Information Systems Engineering Student 🚀!
 - 🔭 I’m currently learning 🤙 🤖 JavaScript and Python.
 - 💻 I’m currently using HTML, CSS (+TailwindCSS).
-- 🎃 I'm currently Front-End Web Freelancer.
+- 🎃 I'm currently a Front-End Web Freelancer.
 - ⚡ Fun fact: I love to play tennis 🎾.
 
 ### GitHub Analytics 📈
