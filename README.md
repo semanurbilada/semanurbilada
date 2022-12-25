@@ -4,7 +4,7 @@
 </a>
 <br/>
 
-### Connect with me:
+### Contact with me:
 [<img align="left" height="25" width="25" target="_blank" alt="linkedin | LinkedIn" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"/>][linkedin]
 [<img align="left" height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
 
