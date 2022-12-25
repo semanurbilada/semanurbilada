@@ -1,10 +1,6 @@
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="260"/>
 
-## I'm Information Systems Engineering Student 🚀!
-- 🔭 I’m currently learning 🤙 🤖 JavaScript and Python.
-- 💻 I’m currently using HTML, CSS (+TailwindCSS).
-- 🎃 I'm currently a Front-End Web Freelancer.
-- ⚡ Fun fact: I love to play tennis 🎾.
+## Information Systems Engineering Student 🚀 🤖
 
 ### GitHub Analytics 📈
 
