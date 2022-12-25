@@ -1,29 +1,23 @@
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="320"/>
 
-## I'm a Information Systems Engineering Student 👩‍🎓 and a Front-End Web Freelancer 🚀!
-- 🔭 I’m currently learning 🤙 🤖 
-- 🔭 I’m currently using HTML, CSS (+TailwindCSS).
+## I'm Information Systems Engineering Student 🚀!
+- 🔭 I’m currently learning 🤙 🤖 JavaScript and Python.
+- 💻 I’m currently using HTML, CSS (+TailwindCSS).
+- 🎃 I'm currently Front-End Web Freelancer.
 - ⚡ Fun fact: I love to play tennis 🎾.
 
 <br/>
 
-### 📩 Connect with me:
+### Connect with me:
 
-[<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" target="_blank"/>][linkedin]
-[<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
+[<img align="left" height="25" width="25" alt="linkedin | LinkedIn" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" target="_blank"/>][linkedin]
+[<img align="left" height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
 
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 <br/>
 
+### GitHub Analytics 📈
 
-### GitHub Analytics 📊
-
-  <img height="190em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=semanurbilada&show_icons=true&locale=en&layout=compact&langs_count=8&theme=radical" alt="mukireus"/>
+  <img height="200em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=semanurbilada&show_icons=true&locale=en&layout=compact&langs_count=8&theme=radical" alt="mukireus"/>
 </a>
 
 <br/>
