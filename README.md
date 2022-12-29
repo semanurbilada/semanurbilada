@@ -5,8 +5,8 @@
 <br/>
 
 ### Connect with me:
-[<img align="left" height="25" width="25" target="_blank" alt="linkedin | LinkedIn" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"/>][linkedin]
-[<img align="left" height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
+[<img align="left" height="28" width="28" alt="linkedin | LinkedIn" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" target="_blank"/>][linkedin]
+[<img align="left" height="28" width="28" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
 
 <br/>
 <br/>
