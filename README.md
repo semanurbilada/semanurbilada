@@ -6,7 +6,8 @@
 
 ### Contact with me:
 [![Semanur Bilada](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/semanur-bilada/)
-[<img align="left" height="35" width="35" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
+[![Semanur Bilada](https://img.shields.io/badge/Gmail-0077B5?style=for-the-badge&logo=gmail&logoColor=white)](mailto:semanurbilada@gmail.com)
+
 
 <br/>
 <br/>
