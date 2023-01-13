@@ -1,6 +1,6 @@
 ## Information Systems Engineering Student 🚀 🤖
 
-<img height="200em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=semanurbilada&show_icons=true&locale=en&layout=compact&langs_count=8&theme=radical" alt="mukireus"/>
+<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YulietM&theme=react&line_height=40&hide=css"/> </a>
 
 <br/>
 
