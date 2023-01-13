@@ -1,7 +1,7 @@
 ## Information Systems Engineering Student 🚀 🤖
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YulietM&theme=react&line_height=40&hide=css"/>
-
+<!--
+<img align="center" src="https://github-readme-stats.vercel.app/api/?username=YulietM&theme=react&line_height=40&hide=css"/>
+-->
 <br/>
 
 ### Contact with me:
