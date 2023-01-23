@@ -1,4 +1,4 @@
-## Information Systems Engineering Student 🚀 🤖
+## Information Systems Engineering Student 🤖
 <!--
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=YulietM&theme=react&line_height=40&hide=css"/>
 
