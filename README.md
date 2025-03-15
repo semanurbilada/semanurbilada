@@ -1,4 +1,4 @@
-<h1 align="center">semanurbilada</h1>
+<h1 align="center">Semanur Bilada</h1>
 
 <div align="center">
     <!-- <h2>💻 Tech Stack:</h2> -->
