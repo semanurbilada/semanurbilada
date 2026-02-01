@@ -1,7 +1,8 @@
 <h1 align="center"><a href="https://www.linkedin.com/in/semanur-bilada/">Semanur Bilada</a></h1>
 
 <div align="center">
-    <!-- <h2>💻 Tech Stack:</h2> -->
+    <h2>💻 Tech Stack:</h2>
+    <p><i>Hands-on experience; depth varies by technology. <br> Most tools listed were used in real-world robotics, perception or research projects.</i></p>
     <p>
         <img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54">
         <img src="https://img.shields.io/badge/tcp%2Fudp-007396.svg?style=flat&logo=protocol&logoColor=white">
